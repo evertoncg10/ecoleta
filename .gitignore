@@ -1,0 +1,7 @@
+*.zip
+*.lock
+*.log
+*.pdf
+node_modules
+package-lock.json
+/.vscode
